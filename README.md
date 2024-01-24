@@ -7,3 +7,11 @@ While looking at the dataset, I did have a few questions written down that I wan
 3. Does position really matter when it comes to average salary and performance? This particular question is the most interesting one. 
 
 All three questions will be analyzed to solve a bigger question: *What is the best scenario to potentially achieve the maximum amount of success if one gets drafted?* Many young children want to be in the NBA and become successful. By doing this specific question by analyzing the three other questions, I want to see if specific archetypes that provide the highest ceiling no longer exists in the game, so that everyone can have a good chance of doing that.
+
+
+## Sources
+[1] J. Welsh, “NBA player salaries (2022-23 season),” Kaggle, https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season (accessed Nov. 25, 2023).
+
+[2] “Jaylen Brown agrees to supermax extension with Celtics,” NBA.com, https://www.nba.com/news/jaylen-brown-2023-supermax-extension (accessed Nov. 25, 2023). 
+
+[3] “Basketball true shooting percentage: Wolfram Formula Repository,” Basketball True Shooting Percentage | Wolfram Formula Repository, https://resources.wolframcloud.com/FormulaRepository/resources/Basketball-True-Shooting-Percentage (accessed Nov. 25, 2023). 
