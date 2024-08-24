@@ -1,4 +1,4 @@
-Player,Position,Age,Team,Games,Minutes Played,PER,TS%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,OWS,DWS,WS,WS/48,OBPM,DBPM,BPM,VORP
+Player,Position,Age,Team,Games,Minutes Played,PER,TS%,3PAr,FTr,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,nothing,OWS,DWS,WS,WS/48,OBPM,DBPM,BPM,VORP
 Precious Achiuwa,PF-C,24,TOT,74,1624,14.6,.545,.207,.239,13.0,20.5,16.7,8.4,1.4,3.9,13.8,15.9,,1.2,2.2,3.4,.102,,-1.7,0.3,-1.4,0.2
 Bam Adebayo,C,26,MIA,71,2416,19.8,.576,.041,.381,7.4,27.3,17.3,18.9,1.7,2.7,12.0,24.9,,2.9,4.3,7.2,.144,,0.8,1.7,2.4,2.7
 Ochai Agbaji,SG,23,TOT,78,1641,7.7,.497,.487,.129,4.9,9.6,7.2,6.6,1.4,2.4,12.3,13.4,,-0.5,0.6,0.1,.002,,-3.5,-0.9,-4.4,-1.0
